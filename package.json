@@ -1,0 +1,15 @@
+{
+  "name": "gdrice-nodejs",
+  "version": "1.0.0",
+  "description": "Upload/download files to google drive using nodejs.",
+  "main": "index.js",
+  "dependencies": {
+    "googleapis": "^46.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rashidu",
+  "license": "ISC"
+}
